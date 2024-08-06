@@ -23,4 +23,4 @@ Classes: 🛩️ Airplane, 🚗 Automobile, 🐦 Bird, 🐈 Cat, 🦌 Deer, 🐕
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/Ashish1100/object-recognition-cnn.git
+git clone https://github.com/Ashish1100/Object-Recognition-in-Images-with-CNN.git
